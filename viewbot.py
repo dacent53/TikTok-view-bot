@@ -2,7 +2,6 @@
 ## Contact Telegram @alethino
 https://t.me/alethino
 
-
 import asyncio
 import threading
 import os
